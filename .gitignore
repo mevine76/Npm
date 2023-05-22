@@ -1,0 +1,2 @@
+# permet d'ignorer les fichiers dans le dossier node_modules
+node_modules
